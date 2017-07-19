@@ -1,0 +1,22 @@
+.users_container {
+	border: 1px solid rgb(234, 234, 234);
+	text-align: center;
+	margin-top: 5px;
+	padding: 5px;
+}
+
+.username_id {
+	display: none;
+}
+
+.pending_request_container {
+	height: 300px;
+}
+
+#approve_button {
+/*	float: right;*/
+}
+
+#delete_request_button {
+	/*background-color: red;*/
+}
